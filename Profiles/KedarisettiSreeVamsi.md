@@ -1,2 +1,0 @@
-- I am a student and I like learning new concepts
-- I prefer Python than other programming languages
